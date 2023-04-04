@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sid624707/reacttask1/static/css/main.12b8d59c.css",
+    "main.js": "/Sid624707/reacttask1/static/js/main.0c666fc2.js",
+    "index.html": "/Sid624707/reacttask1/index.html",
+    "main.12b8d59c.css.map": "/Sid624707/reacttask1/static/css/main.12b8d59c.css.map",
+    "main.0c666fc2.js.map": "/Sid624707/reacttask1/static/js/main.0c666fc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12b8d59c.css",
+    "static/js/main.0c666fc2.js"
+  ]
+}

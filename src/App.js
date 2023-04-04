@@ -1,6 +1,6 @@
-import '../css/App.css';
-import Header from './Header';
-import Search from './Search';
+import './App.css';
+import Header from './components/Header';
+import Search from './components/Search';
 
 function App() {
   return (
